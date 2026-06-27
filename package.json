@@ -1,0 +1,16 @@
+{
+  "name": "hieprooo",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/server.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "@types/node": "^22.0.0",
+    "@types/node-telegram-bot-api": "^0.64.0"
+  }
+}

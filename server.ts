@@ -668,10 +668,10 @@ export function savePhien() {
 }
 
 // --- TELEGRAM BOT CONFIGURATION ---
-export const tokenBot1 = process.env.BOT_TOKEN_1 || "8925099337:AAG9Qnfmn16qOaGzd_zifUPtSQIFedMJxuY";
-export const tokenBot2 = process.env.BOT_TOKEN_2 || "8791648429:AAEnvaEE5SN35np7q_iMC9uTfC7sEuJu8-M";
-export const tokenBot3 = process.env.BOT_TOKEN_3 || "8814013514:AAHLziGV5TcIwZUYiPhIxaNc6SygaQiIvq0";
-export const tokenBot4 = process.env.BOT_TOKEN_4 || "8575655957:AAEJVpRzOYMDQFDm5gwma83a3OKx9NI2UbY";
+export const tokenBot1 = process.env.BOT_TOKEN_1 || "8421292581:AAHu7n8feA5TCmTT0YSTU_jz_Z5ek4wv3Fw";
+export const tokenBot2 = process.env.BOT_TOKEN_2 || "8928201440:AAHzfij3esl9Cm3EWnMYmjx_DjRF5EoMLB8";
+export const tokenBot3 = process.env.BOT_TOKEN_3 || "8925979031:AAGmCZzMoAYHVTs8bVrd1PmdHmz49nGChVs";
+export const tokenBot4 = process.env.BOT_TOKEN_4 || "8549210663:AAGnCf6nePHfo8rV1mn7rDQhKVuPgksRNZM";
 export const tokenBot5 = process.env.BOT_TOKEN_5 || "8385475918:AAGDXUOGVOQqRidBsdQdKQWSa3rdAhR-8BI";
 
 export function isTokenValid(token: string) {
